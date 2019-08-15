@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "community.clearblade.com:1883",
+    "name": "trigger-to-stream-services-template",
+    "platform_url": "https://community.clearblade.com",
+    "system_key": "eeedddd10b889cf494bc9780e9a101",
+    "system_secret": "EEEDDDD10BB88088AEA5C7DF9D6E"
+}

@@ -1,0 +1,7 @@
+{
+    "api": "",
+    "dependencies": "QPromiseLib",
+    "description": "A promisified ClearBlade Library using QPromiseLibrary",
+    "name": "cbCreatePromise",
+    "visibility": "system"
+}

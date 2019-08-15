@@ -1,0 +1,13 @@
+{
+    "auto_balance": true,
+    "auto_restart": false,
+    "concurrency": 1,
+    "dependencies": "log,cbCreatePromise,clearblade",
+    "execution_timeout": -1,
+    "logging_enabled": false,
+    "name": "TransformedToStreamService",
+    "params": [
+        "{}"
+    ],
+    "run_user": ""
+}

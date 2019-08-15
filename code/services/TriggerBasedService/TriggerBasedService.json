@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": false,
+    "concurrency": 0,
+    "dependencies": "log,clearblade,cbCreatePromise",
+    "execution_timeout": 60,
+    "logging_enabled": false,
+    "name": "TriggerBasedService",
+    "params": [
+        "{}"
+    ],
+    "run_user": ""
+}

@@ -1,0 +1,77 @@
+{
+    "items": [
+        {
+            "data": "I am inactive",
+            "device_name": "device-1",
+            "item_id": "06814aa3-17c6-456b-9ef7-825ab70bb026"
+        },
+        {
+            "data": "I am active all the time too",
+            "device_name": "device-2",
+            "item_id": "2fd56eb9-9e5b-4659-a159-0f92ca93da20"
+        },
+        {
+            "data": "I am active all the time",
+            "device_name": "device-1",
+            "item_id": "3761f8e3-4cc3-4aeb-be25-909ce09ccef2"
+        },
+        {
+            "data": "I am active all the time too",
+            "device_name": "device-2",
+            "item_id": "4334341b-933a-4d33-96e1-0eb629ff4eb7"
+        },
+        {
+            "data": "I am active all the time",
+            "device_name": "device-1",
+            "item_id": "538eeaa9-9349-4773-a02d-8aa7617fa9ee"
+        },
+        {
+            "data": "I am active all the time as well",
+            "device_name": "device-3",
+            "item_id": "6dde5bf5-2ddb-4c09-9d06-4ad530e800d4"
+        },
+        {
+            "data": "I am inactive",
+            "device_name": "device-1",
+            "item_id": "803ec051-361b-4fe5-b6bf-d6d3effed4bf"
+        },
+        {
+            "data": "I am inactive",
+            "device_name": "device-1",
+            "item_id": "a088f46f-945e-465e-b0ca-eac99b3e1e37"
+        },
+        {
+            "data": "I am active all the time as well",
+            "device_name": "device-3",
+            "item_id": "d9623160-b2cb-4054-bf24-e76cb3079522"
+        },
+        {
+            "data": "I am active all the time as well",
+            "device_name": "device-3",
+            "item_id": "e77d988f-3372-45eb-bab0-895bf72efa86"
+        },
+        {
+            "data": "I am active all the time too",
+            "device_name": "device-2",
+            "item_id": "f21ee56d-df33-4f90-a229-e790330f13ec"
+        }
+    ],
+    "name": "example_collection",
+    "schema": [
+        {
+            "ColumnName": "device_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "data",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        }
+    ]
+}
